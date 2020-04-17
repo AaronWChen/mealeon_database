@@ -33,7 +33,7 @@ This repo contains code to supplement MeaLeon. MeaLeon works as is, b
 |                                                                  |                                |          |                   |                                         |
 
 # Future Steps
-1. Create new requirments.txt
+1. Create new requirements.txt
     Likely need just scraping for one part
     Containerize the scraper?
 

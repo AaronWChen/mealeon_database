@@ -1,4 +1,5 @@
-# What is this repo?
+# What is this repo?
+===
 This repo contains code to supplement MeaLeon. MeaLeon works as is, but does not have enough recipes in its database. To simplify MVP and allow for easier project silo-ing, I decided to created a separate repo that just contains work to improve the database.
 
 # Sources
@@ -37,7 +38,7 @@ This repo contains code to supplement MeaLeon. MeaLeon works as is, b
     Likely need just scraping for one part
     Containerize the scraper?
         Containerization should make it easier to run on other hardware
-        
+
 
 2. Find sites and scrape
 

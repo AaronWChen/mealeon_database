@@ -36,6 +36,8 @@ This repo contains code to supplement MeaLeon. MeaLeon works as is, b
 1. Create new requirements.txt
     Likely need just scraping for one part
     Containerize the scraper?
+        Containerization should make it easier to run on other hardware
+        
 
 2. Find sites and scrape
 

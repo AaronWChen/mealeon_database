@@ -1,8 +1,9 @@
 # What is this repo?
-===
+
 This repo contains code to supplement MeaLeon. MeaLeon works as is, but does not have enough recipes in its database. To simplify MVP and allow for easier project silo-ing, I decided to created a separate repo that just contains work to improve the database.
 
 # Sources
+
 1. The original MeaLeon web scrape from Epicurious
 
 2. Updated Epicurious web scrape
@@ -11,6 +12,7 @@ This repo contains code to supplement MeaLeon. MeaLeon works as is, b
 
 
 # Table of Sites
+
 | Site                                                             | Why?                           | Labeled? | Number of Recipes | Usage?                                  |
 |------------------------------------------------------------------|--------------------------------|----------|-------------------|-----------------------------------------|
 | Nytimes.com                                                      | Good recipes                   |          |                   |                                         |
@@ -34,6 +36,7 @@ This repo contains code to supplement MeaLeon. MeaLeon works as is, b
 |                                                                  |                                |          |                   |                                         |
 
 # Future Steps
+
 1. Create new requirements.txt
     Likely need just scraping for one part
     Containerize the scraper?

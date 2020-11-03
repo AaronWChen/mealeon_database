@@ -1,0 +1,1 @@
+This folder contains all data used for mealeon_database. Because the datasets may be too large, they may not actually be sent to GitHub, and instead just descriptions of the data
